@@ -1,0 +1,13 @@
+      179800.0     Young's module [MPa]
+      0.3          Poisson ratio
+      318.5        Initial flow stress R0 [MPa]
+      100.7        Isotropic hardening coefficient Q_inf [MPa]
+      8.0          Isotropic hardening parameter b
+      0.0          Isotropic recovery coefficient D_inf [MPa]
+      200.0        Isotropic recovery parameter a
+      2            total number of backstress 
+      11608.2      #1 backstress parameter c(1)
+      145.2        #1 backstress parameter gm(1)
+      1026.3       #2 backstress parameter c(2)
+      4.7          #2 backstress parameter gm(2)
+
